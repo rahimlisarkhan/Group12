@@ -1,0 +1,15 @@
+
+
+.fileContent input{
+    display: none;
+}
+
+
+.fileContent label{
+    padding: 10px;
+    font-size: 20px;
+    background-color:white;
+    color:orange;
+    border-radius: 5px;
+    cursor:pointer; 
+}
